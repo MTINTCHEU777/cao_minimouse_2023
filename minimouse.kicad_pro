@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "Conn_ARM_JTAG_10_Pins"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "LibTP1"
     ]
   },
   "meta": {
